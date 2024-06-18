@@ -1,8 +1,7 @@
 ### 
-- 🔭 I’m currently pursuing my masters in Computer Science from Northwest Missouri State University
-- 🌱 I’m currently learning on Java and React
-- 💬 Ask me about web application development using Angular
-- 📫 How to reach me: ajaykumar.us21@gmail.com
+- 🔭 I’m currently looking for an opportunity to work as Full stack developer with Java, Spring, Angular and AWS.
+- 💬 Ask me about web application development using Angular, Spring and AWS
+- 📫 How to reach me: donthojuajay@gmail.com
 - ⚡ Fun fact: I love debugging code, haha just kidding 😂😂
 
 <!--
